@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     int size=15;
     public void response(View v){
         EditText ed1, ed2,ed3;
+        
         TextView txv;
 
         ed1= findViewById(R.id.editText);
